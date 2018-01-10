@@ -1,0 +1,12 @@
+#Parameter data and values
+#Tue Dec 12 10:17:03 PST 2017
+COMPANY=<company>
+BATCH_SIZE=200
+DP_ENDPOINT=https\://accessnetqa.costco.com/EmployeePremiumRate
+TEST_PERNRS=
+DP_CREDENTIAL=hci_qas
+TEST_MODE=FALSE
+EC_ENDPOINT=https\://api4.successfactors.com
+EMPLOYEE_CLASS=<employee_class>
+ENABLE_LOGGING=TRUE
+EC_CREDENTIAL=CostcoD1_EC

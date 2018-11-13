@@ -1,11 +1,11 @@
 #Parameter data and values
-#Tue Mar 13 11:34:53 PDT 2018
+#Tue Mar 13 13:55:08 PDT 2018
 COMPANY=<company>
 BATCH_SIZE=200
 DP_ENDPOINT=https\://accessnetqa.costco.com/EmployeePremiumRate
-TEST_PERNRS=
+TEST_PERNRS=05005922
 DP_CREDENTIAL=hci_qas
-TEST_MODE=FALSE
+TEST_MODE=TRUE
 EC_ENDPOINT=https\://api4.successfactors.com
 EC_CREDENTIAL=CostcoD1_EC
 ENABLE_LOGGING=TRUE

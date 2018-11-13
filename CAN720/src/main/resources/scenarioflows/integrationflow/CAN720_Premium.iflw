@@ -270,6 +270,10 @@ Query:SELECT ${property.OBJECTS_SELECT_STATEMENT} FROM CompoundEmployee WHERE ${
           <key>receiveTimeOut</key>
           <value>15</value>
         </ifl:property>
+        <ifl:property>
+          <key>sfsfSOAPReceiverDataCenterUrl</key>
+          <value>Other</value>
+        </ifl:property>
       </bpmn2:extensionElements>
     </bpmn2:messageFlow>
     <bpmn2:messageFlow id="MessageFlow_2" sourceRef="ServiceTask_2" targetRef="Participant_4">
